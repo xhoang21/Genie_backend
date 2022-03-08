@@ -3,8 +3,9 @@ const mongoose = require('../db/connection')
 const ProductSchema = new mongoose.Schema({
   brand: String,
   title: String,
+  image: String, 
   category: String,
-  price: Number,
+  price: String,
   description: String,
   SKU: Number,
 })

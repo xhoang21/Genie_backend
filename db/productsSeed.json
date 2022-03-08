@@ -1,0 +1,282 @@
+[
+    {
+        "brand":"-",
+        "title":"Gold Filled Anklets",
+        "image":"../images/Jewelry/anklet1.jpeg",
+        "category:":"Jewelry",
+        "price":"6.99",
+        "description:":"Gold filled anklets with selected letters. Lead and Nickel Free.",
+        "SKU":0
+    },
+    {
+        "brand":"-",
+        "title":"Anklets",
+        "image":"../images/Jewelry/anklet2.jpeg",
+        "category:":"Jewelry",
+        "price":"6.99",
+        "description:":"Anklets with various shapes. Lead and Nickel Free",
+        "SKU":0
+    },
+    {
+        "brand":"-",
+        "title":"Belly Rings",
+        "image":"../images/Jewelry/belly_ring1.jpeg",
+        "category:":"Jewelry",
+        "price": "6.99 to 14.99",
+        "description:":"Belly rings with various designs. No specifications on gauges. Surgical Steel.",
+        "SKU":1
+    },
+    {
+        "brand":"-",
+        "title":"Belly Rings",
+        "image":"../images/Jewelry/belly_ring2.jpeg",
+        "category:":"Jewelry",
+        "price": "6.99 to 14.99",
+        "description:":"Belly rings with various designs. No specifications on gauges. Surgical Steel.",
+        "SKU":1
+    },
+    {
+        "brand":"-",
+        "title":"Belly Rings",
+        "image":"../images/Jewelry/belly_ring3.jpeg",
+        "category:":"Jewelry",
+        "price": "6.99 to 14.99",
+        "description:":"Belly rings with various designs. No specifications on gauges. Surgical Steel.",
+        "SKU":1
+    },
+    {
+        "brand":"-",
+        "title":"Belly Rings",
+        "image":"../images/Jewelry/belly_ring4.jpeg",
+        "category:":"Jewelry",
+        "price": "6.99 to 14.99",
+        "description:":"Belly rings with various designs. No specifications on gauges. Surgical Steel.",
+        "SKU":1
+    },
+    {
+        "brand":"-",
+        "title":"Earrings",
+        "image":"../images/Jewelry/earring1.jpeg",
+        "category:":"Jewelry",
+        "price":"1.99 - 3.99",
+        "description:":"Earrings with various designs and shapes.",
+        "SKU":2
+    },
+    {
+        "brand":"-",
+        "title":"Earring Studs",
+        "image":"../images/Jewelry/earring2.jpeg",
+        "category:":"Jewelry",
+        "price":"4.99 - 9.99",
+        "description:":"14KG Rhodium Plated Earring Studs. No Lead, No Nickel.",
+        "SKU":2
+    },
+    {
+        "brand":"-",
+        "title":"Huggie Earrings",
+        "image":"../images/Jewelry/earring3.jpeg",
+        "category:":"Jewelry",
+        "price":"6.99 - 14.99",
+        "description:":"14KG Rhodium Plated Huggie Earrings. No Lead, No Nickel.",
+        "SKU":2
+    },
+    {
+        "brand":"-",
+        "title":"Huggie Earrings",
+        "image":"../images/Jewelry/earring3.jpeg",
+        "category:":"Jewelry",
+        "price":"6.99 - 14.99",
+        "description:":"14KG Rhodium Plated Huggie Earrings. No Lead, No Nickel.",
+        "SKU":2
+    },
+    {
+        "brand":"-",
+        "title":"Earrings",
+        "image":"../images/Jewelry/earring5.jpeg",
+        "category:":"Jewelry",
+        "price":"1.99 - 4.99",
+        "description:":"Earrings with various designs and shapes.",
+        "SKU":2
+    },
+    {
+        "brand":"-",
+        "title":"Earrings",
+        "image":"../images/Jewelry/earring6.jpeg",
+        "category:":"Jewelry",
+        "price":"1.99 - 4.99",
+        "description:":"Earrings with various designs and shapes.",
+        "SKU":2
+    },
+    {
+        "brand":"-",
+        "title":"Earring Studs",
+        "image":"../images/Jewelry/earring7.jpeg",
+        "category:":"Jewelry",
+        "price":"2.99 - 9.99",
+        "description:":"Earring Studs Sterling Silver. 2mm to 10mm",
+        "SKU":2
+    },
+    {
+        "brand":"-",
+        "title":"Earring Studs",
+        "image":"../images/Jewelry/earring8.jpeg",
+        "category:":"Jewelry",
+        "price":"2.99 - 9.99",
+        "description:":"Earring Studs Sterling Silver. 2mm to 10mm",
+        "SKU":2
+    },
+    {
+        "brand":"EK",
+        "title":"Royal Earrings with Letters",
+        "image":"../images/Jewelry/earring9.jpeg",
+        "category:":"Jewelry",
+        "price":"6.99",
+        "description:":"Earrings with a crystal crown. Lead and Nickel free. ",
+        "SKU":2
+    },
+    {
+        "brand":"-",
+        "title":"Sunglasses",
+        "image":"../images/Jewelry/glass1.jpeg",
+        "category:":"Jewelry",
+        "price":"6.99 - 9.99",
+        "description:":"Sunglasses for fashion! Various shapes and sizes.",
+        "SKU":3
+    },
+    {
+        "brand":"-",
+        "title":"Sunglasses",
+        "image":"../images/Jewelry/glass2.jpeg",
+        "category:":"Jewelry",
+        "price":"6.99 - 9.99",
+        "description:":"Sunglasses for fashion! Various shapes and sizes.",
+        "SKU":3
+    },
+    {
+        "brand":"-",
+        "title":"Grillz",
+        "image":"../images/Jewelry/grillz.jpeg",
+        "category:":"Jewelry",
+        "price":"9.99 - 14.99",
+        "description:":"Fabulous grillz to ante up your game.",
+        "SKU":4
+    },
+    {
+        "brand":"Signature",
+        "title":"Horoscope Necklaces",
+        "image":"../images/Jewelry/neck1.jpeg",
+        "category:":"Jewelry",
+        "price":"-",
+        "description:":"Beautiful horoscope necklaces. Comes in both gold and silver. Lead and Nickel free.",
+        "SKU":5
+    },
+    {
+        "brand":"-",
+        "title":"Tiara",
+        "image":"../images/Jewelry/Tiara.jpeg",
+        "category:":"Jewelry",
+        "price":"-",
+        "description:":"Tiaras for birthdays, quinceanera, celebrations, etc!",
+        "SKU":6
+    },
+    {
+        "brand":"-",
+        "title":"Colored T-Shirts and Pants",
+        "image":"../images/Apparel/clothes1.jpeg",
+        "category:":"Apparel",
+        "price":"6.99 - 12.99",
+        "description:":"Colored t-shirts and pants. Short sleeves are 6.99. Long sleeved are 8.99. Pants are 12.99",
+        "SKU":7
+    },
+    {
+        "brand":"-",
+        "title":"Durags",
+        "image":"../images/Apparel/durag1.jpeg",
+        "category:":"Apparel",
+        "price":"1.99-6.99",
+        "description:":"Various colored durags.",
+        "SKU":8
+    },
+    {
+        "brand":"-",
+        "title":"Durags",
+        "image":"../images/Apparel/durag2.jpeg",
+        "category:":"Apparel",
+        "price":"1.99-6.99",
+        "description:":"Various colored durags.",
+        "SKU":"8"
+    },
+    {
+        "brand":"-",
+        "title":"Scarves",
+        "image":"../images/Apparel/headscarf.jpeg",
+        "category:":"Apparel",
+        "price":"-",
+        "description:":"Headscarves, neck scarves, we got them all",
+        "SKU":9
+    },
+    {
+        "brand":"-",
+        "title":"Head Gear",
+        "image":"../images/Apparel/headwear1.jpeg",
+        "category:":"Apparel",
+        "price":"-",
+        "description:":"Bonnets, shower caps, wig caps, etc.",
+        "SKU":10
+    },
+    {
+        "brand":"-",
+        "title":"Head Gear",
+        "image":"../images/Apparel/headwear2.jpeg",
+        "category:":"Apparel",
+        "price":"-",
+        "description:":"Bonnets, shower caps, wig caps, etc.",
+        "SKU":10
+    },
+    {
+        "brand":"-",
+        "title":"Hair Accessories",
+        "image":"../images/Apparel/headwear3.jpeg",
+        "category:":"Apparel",
+        "price":"-",
+        "description:":"Hair clips, ties, bands, etc.",
+        "SKU":10
+    },
+    {
+        "brand":"-",
+        "title":"Colored Pants and purses",
+        "image":"../images/Apparel/pants.jpeg",
+        "category:":"Apparel",
+        "price":"9.99 - 12.99",
+        "description:":"Colorful pants as well as beautiful purses!",
+        "SKU":7
+    },
+    {
+        "brand":"-",
+        "title":"Pantyhose",
+        "image":"../images/Apparel/pantyhose.jpeg",
+        "category:":"Apparel",
+        "price":"1.99",
+        "description:":"Panyhose with various sizes and colors",
+        "SKU":11
+    },
+    {
+        "brand":"-",
+        "title":"Scarves and Belts",
+        "image":"../images/Apparel/scarf1.jpeg",
+        "category:":"Apparel",
+        "price":"-",
+        "description:":"Colored scarves and belts",
+        "SKU":13
+    },
+    {
+        "brand":"-",
+        "title":"Wig caps and scarves",
+        "image":"../images/Apparel/wigcap.jpeg",
+        "category:":"Apparel",
+        "price":"1.99 - 6.99",
+        "description:":"Wig caps, bonnets, and scarves",
+        "SKU":10
+    }
+
+]
